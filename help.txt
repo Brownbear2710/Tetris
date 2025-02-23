@@ -1,0 +1,19 @@
+
+                                    ----------------->> Goal <<------------------
+
+A simple but addictive puzzle game.
+Goal is to drop blocks in order to create and destroy full lines inside the box horizontally. Don't forget to keep the  blocks' stack height from reaching the top.
+
+
+                                    ---------------->> Control <<----------------
+
+                       -> Press left arrow or '%s' to move the block to the left by 1 step
+                       -> Press right arrow or '%s' to move the block to the right by 1 step
+                       -> Press up arrow or '%s' to rotate the block by 90 degree clockwise
+                       -> Press down arrow or '%s' to accelerate the fall
+                       -> Press 'ENTER' or '%s' for instant fall
+                       -> Press '%s' to swap the current piece with the next one.
+                       -> Press 'ESC' to pause the game
+
+                                      	      ****** Happy Gaming ******
+
